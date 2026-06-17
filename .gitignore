@@ -1,0 +1,14 @@
+# Security (NEVER PUSH THIS)
+.env
+
+# Virtual Environments
+venv/
+env/
+
+# Python Cache & Logs
+__pycache__/
+*.pyc
+
+# Project Specific (Don't push local memory or audio)
+chat_memory.txt
+response.mp3
